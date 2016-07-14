@@ -12,4 +12,4 @@ the third time
 
 test commit 1
 
-create a new git branch 
+create a new git branch feature
