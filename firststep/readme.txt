@@ -20,4 +20,5 @@ and make some change for readme
 
 
 14:26  create a new branch dev
+14:39  test fast forward  --no-ff
 
