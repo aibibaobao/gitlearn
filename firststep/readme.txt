@@ -1,4 +1,4 @@
-Git is free software
+﻿Git is free software
 测试中文测试中文
 
 
@@ -11,3 +11,5 @@ hello world
 the third time
 
 test commit 1
+
+create a new git branch 
